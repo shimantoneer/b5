@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.conferencespeakers.co.za/harry-sideropolous-motivational-speaker-mc/");
+header("Location: http://www.redbullsacademy.com/training/youth-club-summit/");
 die();
 ?>
