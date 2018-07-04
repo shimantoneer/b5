@@ -1,4 +1,4 @@
 <?php
-header("Location: http://www.redbullsacademy.com/training/youth-club-summit/");
+header("Location: https://www.amazon.com/LAMINET-VOL84-Furniture-Protector-Loveseat/dp/B007RYUXMM");
 die();
 ?>
